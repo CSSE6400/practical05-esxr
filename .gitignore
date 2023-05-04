@@ -1,5 +1,5 @@
 # AWS credentials file
-credentials
+credentials*
 
 # Default Terrform .gitignore
 # Local .terraform directories
